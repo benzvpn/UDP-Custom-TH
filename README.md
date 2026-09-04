@@ -25,7 +25,7 @@
  
 1. ดาวน์โหลดและรันสคริปต์ติดตั้ง:
     ```sh
-    wget "https://raw.githubusercontent.com/noobconner21/UDP-Custom-Script/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
+    wget "https://raw.githubusercontent.com/benzvpn/UDP-Custom-TH/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
     ```
 
 ## วิธีใช้งาน
@@ -38,9 +38,7 @@
 ## ผู้พัฒนา
 
 สคริปต์โปรแกรมจัดการ UDP Custom สร้างโดย Project SSLAB LK
-ซอฟต์แวร์ UDP Custom พัฒนาโดยทีมงาน ePro Dev. Team
+ซอฟต์แวร์ UDP Custom พัฒนาโดยทีมงาน ePro Dev. Team ดัดแปลงโดน BenzVPN
 
 ## ช่องทางติดต่อ
 
-- [Telegram Channel (Shay Studio Lab)](https://t.me/shaystudiolab)
-- [GitHub (noobconner21)](https://github.com/noobconner21)
