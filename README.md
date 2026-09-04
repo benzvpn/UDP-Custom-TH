@@ -24,14 +24,14 @@
 ## วิธีติดตั้ง
  
 1. ดาวน์โหลดและรันสคริปต์ติดตั้ง:
-```wget "https://raw.githubusercontent.com/noobconner21/UDP-Custom-Script/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh ```
+
+``` test ```
 
 ## วิธีใช้งาน
  
 1. เข้าสู่แผงควบคุม SSLAB UDP:
-    ```sh
-    menu
-    ```
+
+``` menu ```
 
 ## ผู้พัฒนา
 
