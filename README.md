@@ -28,9 +28,9 @@
     wget "https://raw.githubusercontent.com/noobconner21/UDP-Custom-Script/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
     ```
 
-## Usage
+## วิธีใช้งาน
 
-1. **Access the SSLAB UDP Panel**:
+1. **เข้าสู่แผงควบคุม SSLAB UDP**:
     ```sh
     menu
     ```
