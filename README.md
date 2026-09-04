@@ -24,9 +24,7 @@
 ## วิธีติดตั้ง
  
 1. ดาวน์โหลดและรันสคริปต์ติดตั้ง:
-    ```sh
-    wget "https://raw.githubusercontent.com/noobconner21/UDP-Custom-Script/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
-    ```
+```wget "https://raw.githubusercontent.com/noobconner21/UDP-Custom-Script/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh ```
 
 ## วิธีใช้งาน
  
