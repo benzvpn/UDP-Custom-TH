@@ -23,7 +23,7 @@
  
 ## วิธีติดตั้ง
  
-1. Download and run the installation script:
+1. ดาวน์โหลดและรันสคริปต์ติดตั้ง:
     ```sh
     wget "https://raw.githubusercontent.com/noobconner21/UDP-Custom-Script/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
     ```
